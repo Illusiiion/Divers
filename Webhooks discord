@@ -1,0 +1,41 @@
+{  
+  "embeds": [
+    {
+      "title": "Guide d'utilisation des commandes de job",
+      "description": "Petit guide des commandes de job sur le BOT Kaelly",
+      "color": 4886754,
+      "timestamp": "2020-11-12T21:49:39.948Z",
+      
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/icons/775094443677843486/bb34f30c0465dec14fc4c8c2d1c023e9.png?size=128"
+      },
+      "author": {
+        "name": "Illuusion",
+        "url": "https://discordapp.com",
+        "icon_url": "https://cdn.discordapp.com/avatars/242595658287022080/5a7a5617ccfdef8de09d958fbf805d5a.png?size=128"
+      },
+      "fields": [
+        {
+          "name": "**`!job`**",
+          "value": "Affiche votre profil "
+        },
+        {
+          "name": "**`!job list`**",
+          "value": "Vous liste tous les métiers"
+        },
+        {
+          "name": "**`!job metier niveau`**",
+          "value": "Vous rajoute un métier au niveau défini."
+        },
+        {
+          "name": "**`!job @user`**",
+          "value": "Vous montre les métiers de la personne tag."
+        },
+        {
+          "name": "**`!job metier`**",
+          "value": "Vous liste les personnes qui on ce métiers de renseigné avec le niveau"
+        }
+      ]
+    }
+  ]
+}
